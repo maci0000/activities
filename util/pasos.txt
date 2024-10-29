@@ -4,4 +4,10 @@ crear una carpeta en algun lugar(Downloads, Desktop, etc)
 dir
 cd Downloads
 cd ~/Downloads/clase_git
-git init
+git init(INICIALIZAR)
+git status(VER EL ESTADO)
+~ aun en el working directory
+
+$ git add . (staging area)
+
+
