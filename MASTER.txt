@@ -1,3 +1,6 @@
 DESDE EL MASTER xd
 
-escribiendo esto desde el master
+
+escribiendo esto desde el master y rama 3
+ajustando el conflicto creado por editar este txt en ambas ramas
+
