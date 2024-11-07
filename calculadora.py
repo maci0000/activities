@@ -6,7 +6,7 @@ def calculadora():
     print("3. Multiplicación")
     print("4. División")
     print("5. Salir")
-
+#editando desde repositorio
     opcion = input("Ingrese su opción (1/2/3/4/5): ")
 
     if opcion == '5':
