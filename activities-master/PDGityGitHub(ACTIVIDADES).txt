@@ -1,0 +1,31 @@
+INDIVIDUAL
+===========
+
+Trabajar desde un repositorio local.
+-------------------------------------------------------
+1. Crear una carpeta Dirigida-Git en local (pc).
+2. Inicializa el repositorio de la carpeta creada.
+3. Crea el fichero .html con un html simple .
+4. Comprueba que el repositorio ha detectado el cambio realizado
+3. Añade un fichero .ipynb.
+4. Confirma los cambios.
+5. Haz modificaciones al fichero .ipynb y .html, añde los cambios y agrega al repositorio
+6. Crea un fichero .txt (sugerencia: este archivo).
+4. Ignora el fichero .txt ya que es donde anotaremos nuestras tareas personales y no debe formar parte del proyecto.
+Para ello crea un fichero .gitignore con contenido el nombre del archivo .txt.
+(sugerenica: revisar detalles con búsqueda de internet)
+5. Busca un repositorio en Github de tu interés y clonalo en local
+6. Ahora dicho repositorio en local levántalo en remoto
+
+Trabajar desde un repositorio remoto.
+-------------------------------------------------
+
+1. Ingresar a https://github.com/ , accede a tu cuenta.
+2. Crea un repositorio y levanta el repositorio local Dirigida-Git en remoto.
+3. Desde el remoto agrega un archivo readme.md y otro archivo con extención .csv
+4. Actualiza los cambios realizados en remoto en el repositorio local.
+5. Haz cambios en el local (en al menos uno de los archivo) y actualiza en el remoto.
+6. Busca un repositorio de tu interés y forkéalo en remoto
+
+
+
